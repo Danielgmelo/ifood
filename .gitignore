@@ -3,3 +3,6 @@
 
 #package info
 src.egg-info
+
+#pycache
+__pycache__
