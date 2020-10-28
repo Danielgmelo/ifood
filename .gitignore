@@ -1,2 +1,5 @@
 #notebooks
 .ipynb_checkpoints
+
+#package info
+src.egg-info
