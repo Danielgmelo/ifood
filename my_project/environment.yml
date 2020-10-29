@@ -5,9 +5,10 @@ channels:
 dependencies:
   - python=3.6.5
   - matplotlib=2.2.2
-  - seaborn=0.8.1
+  - seaborn=0.11.0
   - pandas=0.23.0
-  - ipykernel
+  - ipykernel=5.3.4
+  - pathlib=1.0.1
   - pip
   - pip:
     - -e .
