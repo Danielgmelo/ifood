@@ -654,7 +654,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 6661,1974,Graduation,Married,67445.0,0,1,2012-08-12,63,757,80,217,29,80,11,5,9,6,12,6,False,False,False,False,False,False,3,False,0,46,1163,27,0,0,8,1
 4725,1950,PhD,Together,50616.0,0,1,2014-04-13,71,30,2,25,0,1,9,1,1,1,4,2,False,False,False,False,False,False,3,False,0,70,58,6,0,0,6,1
 3277,1955,Graduation,Divorced,49431.0,0,1,2012-08-03,9,219,3,100,26,0,17,2,7,1,5,8,False,False,False,False,False,False,3,False,0,65,348,13,0,0,8,1
-5555,1975,Graduation,Divorced,153924.0,0,0,2014-02-07,81,1,1,1,1,1,1,0,0,0,0,0,False,False,False,False,False,False,3,False,0,45,5,0,0,0,6,0
 2564,1953,Graduation,Together,61278.0,0,1,2014-01-04,87,111,3,28,2,6,15,2,3,1,4,6,False,False,False,False,False,False,3,False,0,67,150,8,0,0,6,1
 946,1958,2n Cycle,Together,26490.0,0,0,2012-09-22,92,45,47,52,21,20,25,2,3,1,5,6,False,False,False,False,False,False,3,False,0,62,185,9,0,0,8,0
 3867,1947,PhD,Together,73059.0,0,1,2013-08-31,36,410,112,420,0,82,71,1,9,3,13,4,False,False,False,False,False,False,3,False,0,73,1024,25,0,0,7,1
@@ -980,7 +979,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 3308,1952,Graduation,Married,35704.0,1,1,2014-01-03,54,30,9,12,2,11,30,3,2,0,4,4,False,False,False,False,False,False,3,False,0,68,64,6,0,0,6,2
 5407,1954,Graduation,Together,53103.0,0,1,2013-09-12,70,729,17,133,11,0,195,5,10,6,7,7,True,False,False,False,False,False,3,False,0,66,890,23,1,1,7,1
 2166,1960,2n Cycle,Widow,46779.0,1,1,2013-07-12,55,12,1,3,0,0,7,1,0,1,2,4,False,False,False,False,False,False,3,False,0,60,16,3,0,0,7,2
-3955,1965,Graduation,Divorced,4861.0,0,0,2014-06-22,20,2,1,1,1,0,1,0,0,0,0,14,False,False,False,False,False,False,3,False,0,55,5,0,0,0,6,0
 6634,1979,Master,Divorced,33462.0,1,0,2013-08-07,78,22,3,18,0,0,11,1,2,0,3,7,False,False,False,False,False,False,3,False,0,41,43,5,0,0,7,1
 3056,1978,Graduation,Divorced,63693.0,0,1,2013-10-14,63,587,43,337,42,87,54,3,11,6,9,6,False,False,False,False,False,False,3,False,0,42,1096,26,0,0,7,1
 5718,1950,Graduation,Married,80763.0,0,0,2013-08-15,17,674,168,108,192,42,231,1,5,11,6,3,False,False,True,True,False,False,3,True,11,70,1184,22,2,3,7,0
@@ -1041,7 +1039,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 5863,1953,Graduation,Married,47703.0,0,1,2013-05-29,95,359,0,134,13,26,123,4,6,3,8,5,False,False,False,False,False,False,3,False,0,67,532,17,0,0,7,1
 3717,1959,Graduation,Married,61180.0,0,1,2014-04-23,70,403,24,29,6,24,218,2,5,5,6,3,True,False,False,False,False,False,3,False,0,61,486,16,1,1,6,1
 6730,1954,Graduation,Married,38998.0,1,1,2012-11-03,92,34,1,14,0,0,5,3,2,0,3,8,False,False,False,False,False,True,3,False,0,66,49,5,0,0,8,2
-10749,1991,Graduation,Single,8028.0,0,0,2012-09-18,62,73,18,66,7,12,2,15,0,1,0,19,False,False,False,False,False,False,3,False,0,29,176,1,0,0,8,0
 4998,1962,Graduation,Together,76081.0,0,0,2014-05-23,85,292,30,415,63,33,200,1,4,5,4,2,False,False,False,True,False,False,3,False,0,58,833,13,1,1,6,0
 6287,1986,Graduation,Together,34728.0,1,0,2013-07-30,2,14,0,16,0,0,6,1,1,1,2,6,False,False,False,False,False,False,3,True,11,34,30,4,0,1,7,1
 5985,1965,Master,Single,33168.0,0,1,2012-10-13,0,80,1,37,0,1,3,3,2,1,4,7,False,False,False,False,False,False,3,False,0,55,119,7,0,0,8,1
@@ -1244,7 +1241,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 4138,1962,Graduation,Single,76624.0,0,1,2014-05-24,68,411,106,147,54,115,66,1,5,10,7,1,True,False,False,False,False,False,3,False,0,58,833,22,1,1,6,1
 7718,1947,Master,Together,66000.0,0,0,2014-04-20,36,244,51,270,101,0,45,1,1,3,5,1,False,False,False,False,False,False,3,False,0,73,666,9,0,0,6,0
 1291,1978,PhD,Together,27683.0,1,0,2012-08-04,90,152,9,121,12,12,45,4,6,2,4,8,False,False,False,False,False,False,3,False,0,42,306,12,0,0,8,1
-6862,1971,Graduation,Divorced,1730.0,0,0,2014-05-18,65,1,1,3,1,1,1,15,0,0,0,20,False,False,False,False,False,False,3,False,0,49,7,0,0,0,6,0
 4136,1992,Basic,Single,7500.0,1,0,2012-12-03,63,10,17,18,8,26,40,4,3,2,2,9,False,False,False,False,False,False,3,False,0,28,79,7,0,0,8,1
 803,1968,Graduation,Together,40521.0,1,1,2013-04-05,82,12,0,5,0,0,4,1,0,1,2,5,False,False,False,False,False,False,3,False,0,52,17,3,0,0,7,2
 4298,1973,PhD,Together,20427.0,1,0,2014-03-24,63,5,0,4,0,0,1,1,1,0,2,8,False,False,False,False,False,False,3,False,0,47,9,3,0,0,6,1
@@ -1523,7 +1519,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 8643,1971,Graduation,Together,69930.0,0,0,2013-05-26,21,252,98,827,219,70,196,1,4,5,12,3,False,False,False,False,False,False,3,False,0,49,1466,21,0,0,7,0
 1998,1976,Graduation,Single,37697.0,1,0,2014-02-07,82,34,6,21,11,4,8,1,2,1,3,6,False,False,False,False,False,False,3,False,0,44,76,6,0,0,6,1
 10795,1973,PhD,Married,37401.0,1,0,2014-05-06,14,19,3,19,3,1,3,2,2,0,3,7,False,False,False,False,False,False,3,False,0,47,45,5,0,0,6,1
-11110,1973,Graduation,Single,3502.0,1,0,2013-04-13,56,2,1,1,0,0,1,0,0,0,0,14,False,False,False,False,False,False,3,False,0,47,4,0,0,0,7,1
 2408,1976,Graduation,Married,58597.0,1,1,2012-11-20,20,490,0,184,10,28,21,12,7,4,9,7,False,False,False,False,False,False,3,False,0,44,712,20,0,0,8,2
 202,1948,PhD,Widow,82032.0,0,0,2014-04-05,54,332,194,377,149,125,57,0,4,6,7,1,False,False,False,False,False,False,3,False,0,72,1177,17,0,0,6,0
 7998,1958,Graduation,Together,28087.0,1,1,2012-12-11,77,53,8,17,13,0,21,3,2,2,2,7,False,False,False,False,False,False,3,False,0,62,91,6,0,0,8,2
@@ -1845,7 +1840,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 3170,1957,Master,Together,68148.0,0,0,2013-08-31,86,389,66,408,37,57,85,1,4,4,6,2,False,False,False,False,False,False,3,False,0,63,957,14,0,0,7,0
 8527,1965,Master,Together,65735.0,1,1,2013-12-07,37,239,7,119,4,15,11,5,6,2,6,7,False,False,False,False,False,False,3,False,0,55,384,14,0,0,7,2
 7872,1975,PhD,Married,86836.0,0,0,2012-09-12,7,179,21,273,0,21,63,1,6,10,6,5,True,False,True,True,False,False,3,True,11,45,494,22,3,4,8,0
-9931,1963,PhD,Married,4023.0,1,1,2014-06-23,29,5,0,1,1,1,1,15,0,0,0,19,False,False,False,False,False,False,3,False,0,57,8,0,0,0,6,2
 10595,1990,Graduation,Married,30093.0,0,0,2013-07-08,19,2,6,28,13,4,16,1,2,0,3,7,False,False,False,False,False,False,3,False,0,30,53,5,0,0,7,0
 4609,1966,PhD,Married,57705.0,0,1,2014-01-11,14,383,0,53,6,4,40,3,8,1,6,6,False,False,False,False,False,False,3,False,0,54,446,15,0,0,6,1
 5010,1988,Graduation,Single,25008.0,1,0,2014-02-02,72,2,8,8,6,1,9,2,1,0,3,8,False,False,False,False,False,False,3,False,0,32,25,4,0,0,6,1
@@ -2131,7 +2125,6 @@ ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recen
 10104,1974,Graduation,Together,33590.0,2,1,2013-11-03,65,4,0,2,0,0,2,1,1,0,2,7,False,False,False,False,False,False,3,False,0,46,6,3,0,0,7,3
 3006,1976,Graduation,Divorced,30992.0,1,0,2013-04-22,83,17,0,14,7,3,2,1,1,0,3,7,False,False,False,False,False,False,3,False,0,44,41,4,0,0,7,1
 3919,1976,Master,Single,72309.0,0,0,2013-03-11,64,960,0,883,50,38,0,1,5,6,8,3,False,False,False,True,False,False,3,True,11,44,1931,19,1,2,7,0
-11181,1949,PhD,Married,156924.0,0,0,2013-08-29,85,2,1,2,1,1,1,0,0,0,0,0,False,False,False,False,False,False,3,False,0,71,7,0,0,0,7,0
 642,1980,Basic,Married,16005.0,1,0,2012-08-14,69,1,3,2,20,30,47,3,2,1,2,8,False,False,False,False,False,False,3,False,0,40,56,5,0,0,8,1
 4369,1957,Master,Absurd,65487.0,0,0,2014-01-10,48,240,67,500,199,0,163,3,3,5,6,2,False,False,False,False,False,False,3,False,0,63,1006,14,0,0,6,0
 10127,1965,Graduation,Married,58692.0,0,1,2014-04-06,21,301,11,61,4,7,11,1,8,2,4,7,False,False,False,False,False,False,3,False,0,55,384,14,0,0,6,1

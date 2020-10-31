@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import datetime
 import seaborn as sns
@@ -23,3 +24,4 @@ def qty_and_percentage(df, column_name, rotation=45):
     percentage.plot.bar(ax=ax1)
     ax1.set_title(f'{column_name} - Percentage of total')
     ax1.tick_params(axis='x', labelrotation=rotation)
+    

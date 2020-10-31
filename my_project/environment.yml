@@ -9,6 +9,7 @@ dependencies:
   - pandas=0.23.0
   - ipykernel=5.3.4
   - pathlib=1.0.1
+  - scikit-learn=0.23.2
   - pip
   - pip:
     - -e .
