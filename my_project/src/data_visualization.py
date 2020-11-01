@@ -6,6 +6,15 @@ import seaborn as sns
 
 
 def qty_and_percentage(df, column_name, rotation=45):
+    """
+    Shows two graphs containing the absolute value and the percentage of the total value.
+    
+    Parameters:
+    df: Dataframe containing the data.
+    column_name: Column containing the data to be plotted.
+    rotation: The rotation of x_label.
+    
+    """
     
     data = (df[column_name]
         .groupby(df[column_name], sort=False)
