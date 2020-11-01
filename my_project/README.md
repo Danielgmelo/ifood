@@ -55,7 +55,8 @@ python -m ipykernel install --user --name=ifood-test
 |            |--- src                                       contains the Python packages created specially this analysis
 |                 |--- data_clean.py
 |                 |--- paths.py
-|                 |--- 
+|                 |--- data_visualization.py
+|                 |--- eda.py
 |            |--- environment.yml                           contains the Python libraries used in this analysis environment
 |            |--- setup.py
 |            |--- README.md
