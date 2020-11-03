@@ -27,10 +27,12 @@ def qty_and_percentage(df, column_name, rotation=45):
     fig.subplots_adjust(wspace=0.5)
     
     data.plot.bar(ax=ax)
-    ax.set_title(f'{column_name} - Qty of customer')
+    ax.set_title(f'{column_name} - Qty of customers')
     ax.tick_params(axis='x', labelrotation=rotation)
+    ax.set_ylabel('Qty')
 
     percentage.plot.bar(ax=ax1)
     ax1.set_title(f'{column_name} - Percentage of total')
     ax1.tick_params(axis='x', labelrotation=rotation)
+    ax1.set_ylabel('%')
     
