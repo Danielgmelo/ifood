@@ -47,3 +47,14 @@ def purchase_every_N_days(df, column):
     """
 
     return (df['DaysOfRegistration']/ df[column]).replace([np.inf, -np.inf], 0)
+
+
+
+def remove_outlier(df, column):
+    
+    q1, q3 = np.percentile(df[column], [25,75])
+    iqr = q3 - q1
+    lower_bound = q1 -(1.5 * iqr) 
+    upper_bound = q3 +(1.5 * iqr)
+
+    return df.query(f'{column} >= {lower_bound} and {column} <= {upper_bound}')
