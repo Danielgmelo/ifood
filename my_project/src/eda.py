@@ -51,6 +51,14 @@ def purchase_every_N_days(df, column):
 
 
 def remove_outlier(df, column):
+    """
+    Return a dataframe with outliers removed. The statistical method used is IQR.
+    
+    Parameter:
+    df: Dataframe cotanining the column.
+    column: The column containing the outliers.
+    
+    """
     
     q1, q3 = np.percentile(df[column], [25,75])
     iqr = q3 - q1
@@ -58,3 +66,27 @@ def remove_outlier(df, column):
     upper_bound = q3 +(1.5 * iqr)
 
     return df.query(f'{column} >= {lower_bound} and {column} <= {upper_bound}')
+
+
+def classification(row, income_limit, income_min):
+    """
+    Create a segmentation based on income and total children. 
+    This function can be used with lambda.
+    
+    row: The dataframe containing the data.
+    income_limit: The maximum acceptable income for group A.
+    income_min: The minimum acceptable income for group B
+    
+    """
+    
+    if row['TotalChildren'] == 0 and row['Income'] > income_limit:
+        return 'A'
+    
+    if row['TotalChildren'] == 0 and (row['Income'] < income_limit and row['Income'] > income_min):
+        return 'B'
+    
+    if row['TotalChildren'] > 0 and (row['Income'] > income_min):
+        return 'C'
+    
+    else:
+        return 'D'
