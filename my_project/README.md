@@ -1,27 +1,24 @@
-
-
-
 #### How to run
 
-For reproduce this analysis, use the conda to create a environment.
+To reproduce this analysis, use the Conda Terminal to create an environment.
 
-- First, download the conda or miniconda: 
+- First, download conda or miniconda: 
 
-link conda: https://docs.conda.io/en/latest/miniconda.html
+Conda download page link: https://docs.conda.io/en/latest/miniconda.html
 
-- So, on terminal line, navigate to the my_project folder and type:
+- On terminal, navigate to `my_project` folder and type:
 
 ```
 conda env create -f environment.yml
 ```
 
-- After the creating the environment, is necessary to activate it:
+- After creating the environment, it is necessary to activate it:
 
 ```
 conda activate ifood-test
 ```
 
-- After, put this new environment in the jupyter notebook (kernel)
+- Then, install this new environment in the jupyter notebook (kernel)
 
 ```
 python -m ipykernel install --user --name=ifood-test
@@ -35,7 +32,7 @@ python -m ipykernel install --user --name=ifood-test
 
 |------ ifood
 |       |--- my_project                                     
-|            |--- data                                      contains inputs and outputs data
+|            |--- data                                      contains data inputs and outputs
 |                 |--- ml_project1_data.csv
 |                 |--- ml_project1_data_cleaned.csv
 |                 |--- ml_project1_data_pre_processed.csv
@@ -49,8 +46,8 @@ python -m ipykernel install --user --name=ifood-test
 |                      |--- 2_pilot_campaign
 |                 |--- segmentation
 |                 |--- predictive_model
-|            |--- src                                       contains the Python packages created specially this analysis
-|                 |--- data_clean.py
+|            |--- src                                       contains the Python packages created specially for this analysis
+|                 |--- data_cleaning.py
 |                 |--- paths.py
 |                 |--- data_visualization.py
 |                 |--- eda.py
@@ -59,4 +56,3 @@ python -m ipykernel install --user --name=ifood-test
 |            |--- README.md
 
 ```
-
